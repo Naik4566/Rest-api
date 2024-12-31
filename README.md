@@ -56,7 +56,7 @@ This is a Flutter application that fetches and displays user data from a REST AP
 
 Include some screenshots of the app here:
 
-- Home Page (To-Do List)  
+- Home Page   
   ![Home Page](https://github.com/user-attachments/assets/5ebbc26a-e91d-44ac-939e-f477ee797f03)  
 
 - User Detail screen  
